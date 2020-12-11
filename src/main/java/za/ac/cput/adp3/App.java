@@ -2,18 +2,15 @@ package za.ac.cput.adp3;
 
 import java.util.*;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
     {
         Map<Integer, String> map = new HashMap();
-        map.put(1, "Nacisha");
-        map.put(2, "Courtney");
-        map.put(3, "Anika");
+        map.put(1, "Avery");
+        map.put(2, "Daniels");
+        map.put(3, "Junior");
 
         System.out.println("\nPrinting the Map:");
         System.out.println(map);

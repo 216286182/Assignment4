@@ -33,14 +33,14 @@ public class AppTest
 
     public void setMaps() {
         expectedMap = new HashMap<>();
-        expectedMap.put(1, "Nacisha");
-        expectedMap.put(2, "Courtney");
-        expectedMap.put(3, "Anika");
+        expectedMap.put(1, "Avery");
+        expectedMap.put(2, "Daniels");
+        expectedMap.put(3, "Junior");
 
         resultMap = new HashMap<>();
-        resultMap.put(1, "Nacisha");
-        resultMap.put(2, "Courtney");
-        resultMap.put(3, "Anika");
+        resultMap.put(1, "Avery");
+        resultMap.put(2, "Daniels");
+        resultMap.put(3, "Junior");
     }
 
     @Test
